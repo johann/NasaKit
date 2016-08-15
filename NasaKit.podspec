@@ -15,5 +15,5 @@ Pod::Spec.new do |s|
   s.dependency 'Alamofire', '~> 3.4'
   s.dependency 'SwiftyJSON', '>= 2.3'
   s.source_files = "NasaKit/**/*.{swift}"
-  s.resources = "NasaKit/**/*.{png,jpeg,jpg,storyboard,xib}"
+  #s.resources = "NasaKit/**/*.{png,jpeg,jpg,storyboard,xib}"
 end
