@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0730"
+   LastUpgradeVersion = "0700"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "8F5DFF5B1D61FDB200C3A5A6"
-               BuildableName = "NasaKit.framework"
-               BlueprintName = "NasaKit"
-               ReferencedContainer = "container:NasaKit.xcodeproj">
+               BlueprintIdentifier = "948DA1279F8614929FAD885FA834E19B"
+               BuildableName = "Pods_NasaKit.framework"
+               BlueprintName = "Pods-NasaKit"
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,10 +45,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8F5DFF5B1D61FDB200C3A5A6"
-            BuildableName = "NasaKit.framework"
-            BlueprintName = "NasaKit"
-            ReferencedContainer = "container:NasaKit.xcodeproj">
+            BlueprintIdentifier = "948DA1279F8614929FAD885FA834E19B"
+            BuildableName = "Pods_NasaKit.framework"
+            BlueprintName = "Pods-NasaKit"
+            ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -60,15 +60,6 @@
       savedToolIdentifier = ""
       useCustomWorkingDirectory = "NO"
       debugDocumentVersioning = "YES">
-      <MacroExpansion>
-         <BuildableReference
-            BuildableIdentifier = "primary"
-            BlueprintIdentifier = "8F5DFF5B1D61FDB200C3A5A6"
-            BuildableName = "NasaKit.framework"
-            BlueprintName = "NasaKit"
-            ReferencedContainer = "container:NasaKit.xcodeproj">
-         </BuildableReference>
-      </MacroExpansion>
    </ProfileAction>
    <AnalyzeAction
       buildConfiguration = "Debug">
